@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\startdefault.png</Source>
+      <Name>Backgrounds\startdefault</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\startdefault.xnb</Output>
+      <Time>2014-11-13T17:54:42.6003569-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\startsign.png</Source>
+      <Name>Backgrounds\startsign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\startsign.xnb</Output>
+      <Time>2014-11-13T17:54:43.9874615-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\info1.png</Source>
+      <Name>Backgrounds\info1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\info1.xnb</Output>
+      <Time>2014-11-13T17:35:30.5895156-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\info2.png</Source>
+      <Name>Backgrounds\info2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\info2.xnb</Output>
+      <Time>2014-11-13T17:35:30.5935199-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\lvl1.png</Source>
+      <Name>Backgrounds\lvl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\lvl1.xnb</Output>
+      <Time>2014-11-13T21:06:41.4715535-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\chicken.png</Source>
+      <Name>Drops\chicken</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\chicken.xnb</Output>
+      <Time>2014-11-13T21:07:20.7227352-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\meth.png</Source>
+      <Name>Drops\meth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\meth.xnb</Output>
+      <Time>2014-11-13T21:07:20.7327419-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\jessetraysheet.png</Source>
+      <Name>Players\jessetraysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\jessetraysheet.xnb</Output>
+      <Time>2014-11-18T16:51:07.1501839-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\walttraysheet.png</Source>
+      <Name>Players\walttraysheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\walttraysheet.xnb</Output>
+      <Time>2014-11-18T16:51:07.212227-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\rv.png</Source>
+      <Name>Backgrounds\rv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\rv.xnb</Output>
+      <Time>2014-11-19T11:33:13.1166252-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GameOver.jpg</Source>
+      <Name>Backgrounds\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\GameOver.xnb</Output>
+      <Time>2014-11-20T16:47:22.4366688-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\jessespritesheet.png</Source>
+      <Name>Players\jessespritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\jessespritesheet.xnb</Output>
+      <Time>2014-11-20T17:24:26.2094506-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\saulspritesheet.png</Source>
+      <Name>Players\saulspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\saulspritesheet.xnb</Output>
+      <Time>2014-11-20T17:24:26.2264625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\waltspritesheet.png</Source>
+      <Name>Players\waltspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\waltspritesheet.xnb</Output>
+      <Time>2014-11-20T17:24:26.3135189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\money.png</Source>
+      <Name>Drops\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\money.xnb</Output>
+      <Time>2014-11-20T17:24:34.6501763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\lvl2.png</Source>
+      <Name>Backgrounds\lvl2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\lvl2.xnb</Output>
+      <Time>2014-11-20T22:43:23.8681166-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\intro2.png</Source>
+      <Name>Backgrounds\intro2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\intro2.xnb</Output>
+      <Time>2014-12-02T10:55:54.7069599-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\p1info.png</Source>
+      <Name>Backgrounds\p1info</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\p1info.xnb</Output>
+      <Time>2014-12-02T11:56:34.4697454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\p1infos.png</Source>
+      <Name>Backgrounds\p1infos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\p1infos.xnb</Output>
+      <Time>2014-12-02T11:56:34.4697454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\p2info.png</Source>
+      <Name>Backgrounds\p2info</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\p2info.xnb</Output>
+      <Time>2014-12-02T11:56:34.4697454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\p2infos.png</Source>
+      <Name>Backgrounds\p2infos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\p2infos.xnb</Output>
+      <Time>2014-12-02T11:56:34.4697454-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\cactus2.png</Source>
+      <Name>Drops\cactus2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\cactus2.xnb</Output>
+      <Time>2014-12-02T12:00:49.1443935-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level3.jpg</Source>
+      <Name>Backgrounds\level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\level3.xnb</Output>
+      <Time>2014-12-02T13:37:29.4419925-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\jessescreen.png</Source>
+      <Name>Backgrounds\jessescreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\jessescreen.xnb</Output>
+      <Time>2014-12-04T17:14:56.0482574-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\waltscreen.jpg</Source>
+      <Name>Backgrounds\waltscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\waltscreen.xnb</Output>
+      <Time>2014-12-04T17:14:56.0532613-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\bullet1.png</Source>
+      <Name>Drops\bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\bullet1.xnb</Output>
+      <Time>2014-12-04T17:25:01.0159007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\mikespritesheet.png</Source>
+      <Name>Players\mikespritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\mikespritesheet.xnb</Output>
+      <Time>2014-12-04T17:47:52.8150701-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\1playerwin.png</Source>
+      <Name>Backgrounds\1playerwin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\1playerwin.xnb</Output>
+      <Time>2014-12-04T17:55:22.1162828-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\gameover1.jpg</Source>
+      <Name>Backgrounds\gameover1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\gameover1.xnb</Output>
+      <Time>2014-12-04T17:55:22.121285-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level2screen.jpg</Source>
+      <Name>Backgrounds\level2screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\level2screen.xnb</Output>
+      <Time>2014-12-04T17:55:22.1262889-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level3screen.jpg</Source>
+      <Name>Backgrounds\level3screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Backgrounds\level3screen.xnb</Output>
+      <Time>2014-12-04T17:55:22.1312929-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\gus.png</Source>
+      <Name>Players\gus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\gus.xnb</Output>
+      <Time>2014-12-04T18:15:35.683049-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Players\gushurt.png</Source>
+      <Name>Players\gushurt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Players\gushurt.xnb</Output>
+      <Time>2014-12-04T18:15:35.6870523-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\healthbar.png</Source>
+      <Name>Drops\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\healthbar.xnb</Output>
+      <Time>2014-12-09T11:03:21.2111081-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Drops\explosion.png</Source>
+      <Name>Drops\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Drops\explosion.xnb</Output>
+      <Time>2014-12-09T16:07:31.5716531-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\basic.spritefont</Source>
+      <Name>Font\basic</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Font\basic.xnb</Output>
+      <Time>2014-11-18T17:25:49.5054817-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bbintro.mp3</Source>
+      <Name>Sounds\bbintro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\bbintro.xnb</Output>
+      <Extra>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\bbintro.wma</Extra>
+      <Time>2014-11-20T12:57:52.5573647-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Register.wav</Source>
+      <Name>Sounds\Register</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\Register.xnb</Output>
+      <Time>2014-12-02T12:33:53.9693484-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\boss_grunt.wav</Source>
+      <Name>Sounds\boss_grunt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\boss_grunt.xnb</Output>
+      <Time>2014-12-09T14:23:41.6162888-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\male_money.wav</Source>
+      <Name>Sounds\male_money</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\male_money.xnb</Output>
+      <Time>2014-12-09T14:30:01.4708528-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\grunt.wav</Source>
+      <Name>Sounds\grunt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\grunt.xnb</Output>
+      <Time>2014-12-09T14:56:35.1331438-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bomb.wav</Source>
+      <Name>Sounds\bomb</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\bomb.xnb</Output>
+      <Time>2014-12-09T15:02:08.4791854-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hector_bell.wav</Source>
+      <Name>Sounds\Hector_bell</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\Sounds\Hector_bell.xnb</Output>
+      <Time>2014-12-09T15:02:08.5645157-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{282D0A8D-2A4C-4658-9779-DDEB02A8CD50}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_BadContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\melin_000\Documents\Visual Studio 2013\Projects\Breaking Bad\Breaking Bad\Breaking_Bad\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-30T20:46:03.9492025-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
